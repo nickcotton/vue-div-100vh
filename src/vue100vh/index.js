@@ -1,1 +1,1 @@
-export { default } from './vue100vh'
+export { default } from './vue100vh.vue'
